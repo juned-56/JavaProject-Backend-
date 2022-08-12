@@ -2,6 +2,8 @@
 
 
 Api's
+
+http://localhost:8181/auth/v1/addUser
 http://localhost:8181/auth/v1/addUser
 http://localhost:8181/auth/v1//deleteUser/{id}
 http://localhost:8181/auth/v1/address
